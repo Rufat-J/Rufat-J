@@ -20,6 +20,16 @@
 
  </div>
 
+
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rufat-j&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rufat-j&theme=dark&hide_border=false)
+
+
+</div>
+
+
 ###
 
 <h1 align="center">
@@ -34,10 +44,3 @@
 <h1 align="center"> 📊 GitHub Stats:
 </h1>
 <div align="center">
- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rufat-j&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rufat-j&theme=dark&hide_border=false)
-
-
-</div>
