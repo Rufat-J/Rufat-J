@@ -35,7 +35,6 @@
 </div>
 
 
-###
 
 <h1 align="center">
 💻 Tech Stack:
