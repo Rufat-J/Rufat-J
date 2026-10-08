@@ -95,6 +95,6 @@ Most of my production work lives in private company repositories, so my public G
 
 I'm always interested in meaningful projects, interesting engineering challenges and connecting with other developers.
 
-[LinkedIn](https://www.linkedin.com/in/rufat-jafarli-273a43254/) · [Email](mailto:rufat.jzon@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rufat-jafarli-273a43254/) · [Email](mailto:rufat.jafarli30@gmail.com)
 
 </div>
